@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 namespace Car
@@ -38,7 +36,6 @@ namespace Car
             {
                 _currentTorque = 0;
             }
-            Debug.Log(_currentTorque);
             
             foreach(WheelComponent wheel in _wheelsComponents) 
             {

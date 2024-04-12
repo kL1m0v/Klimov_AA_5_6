@@ -3,20 +3,44 @@
   "WorkspaceRootPath": "I:\\Projects\\Unity\\Klimov_AA_5_6\\Klimov_AA_5_6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C260EB4-F687-D0BE-5659-01915C31D43E}|Assembly-CSharp.csproj|I:\\Projects\\Unity\\Klimov_AA_5_6\\Klimov_AA_5_6\\assets\\car\\scripts\\wheelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C260EB4-F687-D0BE-5659-01915C31D43E}|Assembly-CSharp.csproj|solutionrelative:assets\\car\\scripts\\wheelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C260EB4-F687-D0BE-5659-01915C31D43E}|Assembly-CSharp.csproj|I:\\Projects\\Unity\\Klimov_AA_5_6\\Klimov_AA_5_6\\assets\\results.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0C260EB4-F687-D0BE-5659-01915C31D43E}|Assembly-CSharp.csproj|solutionrelative:assets\\results.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C260EB4-F687-D0BE-5659-01915C31D43E}|Assembly-CSharp.csproj|i:\\projects\\unity\\klimov_aa_5_6\\klimov_aa_5_6\\assets\\car\\scripts\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C260EB4-F687-D0BE-5659-01915C31D43E}|Assembly-CSharp.csproj|solutionrelative:assets\\car\\scripts\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C260EB4-F687-D0BE-5659-01915C31D43E}|Assembly-CSharp.csproj|i:\\projects\\unity\\klimov_aa_5_6\\klimov_aa_5_6\\assets\\scripts\\resulthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C260EB4-F687-D0BE-5659-01915C31D43E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resulthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C260EB4-F687-D0BE-5659-01915C31D43E}|Assembly-CSharp.csproj|I:\\Projects\\Unity\\Klimov_AA_5_6\\Klimov_AA_5_6\\assets\\car\\scripts\\playerinputcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C260EB4-F687-D0BE-5659-01915C31D43E}|Assembly-CSharp.csproj|solutionrelative:assets\\car\\scripts\\playerinputcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C260EB4-F687-D0BE-5659-01915C31D43E}|Assembly-CSharp.csproj|I:\\Projects\\Unity\\Klimov_AA_5_6\\Klimov_AA_5_6\\assets\\scripts\\canvasscripts\\startcanvasscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C260EB4-F687-D0BE-5659-01915C31D43E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\canvasscripts\\startcanvasscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C260EB4-F687-D0BE-5659-01915C31D43E}|Assembly-CSharp.csproj|I:\\Projects\\Unity\\Klimov_AA_5_6\\Klimov_AA_5_6\\assets\\car\\scripts\\wheelcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C260EB4-F687-D0BE-5659-01915C31D43E}|Assembly-CSharp.csproj|solutionrelative:assets\\car\\scripts\\wheelcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C260EB4-F687-D0BE-5659-01915C31D43E}|Assembly-CSharp.csproj|I:\\Projects\\Unity\\Klimov_AA_5_6\\Klimov_AA_5_6\\assets\\scripts\\finishscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C260EB4-F687-D0BE-5659-01915C31D43E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\finishscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C260EB4-F687-D0BE-5659-01915C31D43E}|Assembly-CSharp.csproj|I:\\Projects\\Unity\\Klimov_AA_5_6\\Klimov_AA_5_6\\assets\\scripts\\canvasscripts\\finishcanvasscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C260EB4-F687-D0BE-5659-01915C31D43E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\canvasscripts\\finishcanvasscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C260EB4-F687-D0BE-5659-01915C31D43E}|Assembly-CSharp.csproj|I:\\Projects\\Unity\\Klimov_AA_5_6\\Klimov_AA_5_6\\assets\\scripts\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C260EB4-F687-D0BE-5659-01915C31D43E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C260EB4-F687-D0BE-5659-01915C31D43E}|Assembly-CSharp.csproj|I:\\Projects\\Unity\\Klimov_AA_5_6\\Klimov_AA_5_6\\assets\\scripts\\canvasscripts\\ingamecanvasscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C260EB4-F687-D0BE-5659-01915C31D43E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\canvasscripts\\ingamecanvasscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C260EB4-F687-D0BE-5659-01915C31D43E}|Assembly-CSharp.csproj|I:\\Projects\\Unity\\Klimov_AA_5_6\\Klimov_AA_5_6\\assets\\scripts\\canvasscripts\\canvasscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C260EB4-F687-D0BE-5659-01915C31D43E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\canvasscripts\\canvasscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C260EB4-F687-D0BE-5659-01915C31D43E}|Assembly-CSharp.csproj|I:\\Projects\\Unity\\Klimov_AA_5_6\\Klimov_AA_5_6\\assets\\scripts\\carscripts\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C260EB4-F687-D0BE-5659-01915C31D43E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\carscripts\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C260EB4-F687-D0BE-5659-01915C31D43E}|Assembly-CSharp.csproj|I:\\Projects\\Unity\\Klimov_AA_5_6\\Klimov_AA_5_6\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C260EB4-F687-D0BE-5659-01915C31D43E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,53 +54,127 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WheelComponent.cs",
-              "DocumentMoniker": "I:\\Projects\\Unity\\Klimov_AA_5_6\\Klimov_AA_5_6\\Assets\\Car\\Scripts\\WheelComponent.cs",
-              "RelativeDocumentMoniker": "Assets\\Car\\Scripts\\WheelComponent.cs",
-              "ToolTip": "I:\\Projects\\Unity\\Klimov_AA_5_6\\Klimov_AA_5_6\\Assets\\Car\\Scripts\\WheelComponent.cs",
-              "RelativeToolTip": "Assets\\Car\\Scripts\\WheelComponent.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "DocumentIndex": 9,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "I:\\Projects\\Unity\\Klimov_AA_5_6\\Klimov_AA_5_6\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "I:\\Projects\\Unity\\Klimov_AA_5_6\\Klimov_AA_5_6\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T12:21:06.225Z"
+              "WhenOpened": "2024-04-08T14:40:51.772Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WheelsController.cs",
-              "DocumentMoniker": "I:\\Projects\\Unity\\Klimov_AA_5_6\\Klimov_AA_5_6\\Assets\\Car\\Scripts\\WheelsController.cs",
-              "RelativeDocumentMoniker": "Assets\\Car\\Scripts\\WheelsController.cs",
-              "ToolTip": "I:\\Projects\\Unity\\Klimov_AA_5_6\\Klimov_AA_5_6\\Assets\\Car\\Scripts\\WheelsController.cs",
-              "RelativeToolTip": "Assets\\Car\\Scripts\\WheelsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T08:59:12.763Z",
+              "Title": "results.txt",
+              "DocumentMoniker": "I:\\Projects\\Unity\\Klimov_AA_5_6\\Klimov_AA_5_6\\Assets\\results.txt",
+              "RelativeDocumentMoniker": "Assets\\results.txt",
+              "ToolTip": "I:\\Projects\\Unity\\Klimov_AA_5_6\\Klimov_AA_5_6\\Assets\\results.txt",
+              "RelativeToolTip": "Assets\\results.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-08T19:29:12.054Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PlayerInputComponent.cs",
-              "DocumentMoniker": "I:\\Projects\\Unity\\Klimov_AA_5_6\\Klimov_AA_5_6\\Assets\\Car\\Scripts\\PlayerInputComponent.cs",
-              "RelativeDocumentMoniker": "Assets\\Car\\Scripts\\PlayerInputComponent.cs",
-              "ToolTip": "I:\\Projects\\Unity\\Klimov_AA_5_6\\Klimov_AA_5_6\\Assets\\Car\\Scripts\\PlayerInputComponent.cs",
-              "RelativeToolTip": "Assets\\Car\\Scripts\\PlayerInputComponent.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAABDwCIAAAAJAAAA",
+              "Title": "StartCanvasScript.cs",
+              "DocumentMoniker": "I:\\Projects\\Unity\\Klimov_AA_5_6\\Klimov_AA_5_6\\Assets\\Scripts\\CanvasScripts\\StartCanvasScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CanvasScripts\\StartCanvasScript.cs",
+              "ToolTip": "I:\\Projects\\Unity\\Klimov_AA_5_6\\Klimov_AA_5_6\\Assets\\Scripts\\CanvasScripts\\StartCanvasScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CanvasScripts\\StartCanvasScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T08:06:24.592Z"
+              "WhenOpened": "2024-04-08T18:40:58.184Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CarController.cs",
-              "DocumentMoniker": "I:\\Projects\\Unity\\Klimov_AA_5_6\\Klimov_AA_5_6\\Assets\\Car\\Scripts\\CarController.cs",
-              "RelativeDocumentMoniker": "Assets\\Car\\Scripts\\CarController.cs",
-              "ToolTip": "I:\\Projects\\Unity\\Klimov_AA_5_6\\Klimov_AA_5_6\\Assets\\Car\\Scripts\\CarController.cs",
-              "RelativeToolTip": "Assets\\Car\\Scripts\\CarController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Title": "ResultHandler.cs",
+              "DocumentMoniker": "I:\\Projects\\Unity\\Klimov_AA_5_6\\Klimov_AA_5_6\\Assets\\Scripts\\ResultHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ResultHandler.cs",
+              "ToolTip": "I:\\Projects\\Unity\\Klimov_AA_5_6\\Klimov_AA_5_6\\Assets\\Scripts\\ResultHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ResultHandler.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T07:55:23.62Z",
+              "WhenOpened": "2024-04-08T16:44:47.344Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FinishCanvasScript.cs",
+              "DocumentMoniker": "I:\\Projects\\Unity\\Klimov_AA_5_6\\Klimov_AA_5_6\\Assets\\Scripts\\CanvasScripts\\FinishCanvasScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CanvasScripts\\FinishCanvasScript.cs",
+              "ToolTip": "I:\\Projects\\Unity\\Klimov_AA_5_6\\Klimov_AA_5_6\\Assets\\Scripts\\CanvasScripts\\FinishCanvasScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CanvasScripts\\FinishCanvasScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T16:08:33.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InGameCanvasScript.cs",
+              "DocumentMoniker": "I:\\Projects\\Unity\\Klimov_AA_5_6\\Klimov_AA_5_6\\Assets\\Scripts\\CanvasScripts\\InGameCanvasScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CanvasScripts\\InGameCanvasScript.cs",
+              "ToolTip": "I:\\Projects\\Unity\\Klimov_AA_5_6\\Klimov_AA_5_6\\Assets\\Scripts\\CanvasScripts\\InGameCanvasScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CanvasScripts\\InGameCanvasScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T15:26:38.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Timer.cs",
+              "DocumentMoniker": "I:\\Projects\\Unity\\Klimov_AA_5_6\\Klimov_AA_5_6\\Assets\\Scripts\\Timer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Timer.cs",
+              "ToolTip": "I:\\Projects\\Unity\\Klimov_AA_5_6\\Klimov_AA_5_6\\Assets\\Scripts\\Timer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Timer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T15:26:57.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "I:\\Projects\\Unity\\Klimov_AA_5_6\\Klimov_AA_5_6\\Assets\\Scripts\\CarScripts\\CarController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CarScripts\\CarController.cs",
+              "ToolTip": "I:\\Projects\\Unity\\Klimov_AA_5_6\\Klimov_AA_5_6\\Assets\\Scripts\\CarScripts\\CarController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CarScripts\\CarController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T14:48:05.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FinishScript.cs",
+              "DocumentMoniker": "I:\\Projects\\Unity\\Klimov_AA_5_6\\Klimov_AA_5_6\\Assets\\Scripts\\FinishScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FinishScript.cs",
+              "ToolTip": "I:\\Projects\\Unity\\Klimov_AA_5_6\\Klimov_AA_5_6\\Assets\\Scripts\\FinishScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FinishScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T14:43:01.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CanvasScript.cs",
+              "DocumentMoniker": "I:\\Projects\\Unity\\Klimov_AA_5_6\\Klimov_AA_5_6\\Assets\\Scripts\\CanvasScripts\\CanvasScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CanvasScripts\\CanvasScript.cs",
+              "ToolTip": "I:\\Projects\\Unity\\Klimov_AA_5_6\\Klimov_AA_5_6\\Assets\\Scripts\\CanvasScripts\\CanvasScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CanvasScripts\\CanvasScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T14:14:50.021Z"
             }
           ]
         }

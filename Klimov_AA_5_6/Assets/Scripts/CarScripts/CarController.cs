@@ -11,6 +11,9 @@ namespace Car
         private Rigidbody _rigidbody;
         [SerializeField]
         private Vector3 _centerOfMass;
+        private bool canMove = false;
+
+        public bool CanMove { get => canMove; set => canMove = value; }
 
         private void Awake()
         {
@@ -22,9 +25,12 @@ namespace Car
 
         private void FixedUpdate()
         {
-            _wheelController.SetMotorTorqueForMotorizedWheels(_playerInputComponent.ReadInputOfMovementForwardOrReverse());
-            _wheelController.SetSteerAngleForSteeringWheels(_playerInputComponent.ReadInputOfWheelRotation());
-            _wheelController.AddBreakTorque(_playerInputComponent.ReadInputBrake());
+            if (CanMove)
+            {
+                _wheelController.SetMotorTorqueForMotorizedWheels(_playerInputComponent.ReadInputOfMovementForwardOrReverse());
+                _wheelController.SetSteerAngleForSteeringWheels(_playerInputComponent.ReadInputOfWheelRotation());
+                _wheelController.AddBreakTorque(_playerInputComponent.ReadInputBrake());
+            }
         }
 
         private void OnDrawGizmos()
